@@ -1,0 +1,10 @@
+{
+  "name": "git-view",
+  "version": "0.1.0",
+  "description": "Visual git for the CLI: a /git pane with status, diffs, hunk staging, commits, log, branches and stashes.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Muhammet Kilic"
+  },
+  "repository": "https://github.com/Mo-k-tec/claude-tool-git"
+}
